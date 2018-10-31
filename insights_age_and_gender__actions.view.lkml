@@ -1,5 +1,5 @@
 view: ad_actions_by_age_and_gender {
-  sql_table_name: facebook_data.facebook_ads_insights_age_and_gender_101441173373823__actions ;;
+  sql_table_name: facebook_ads_thinx_via_stitch.facebook_ads_insights_age_and_gender_425928680820998__actions ;;
   #   - dimension: 1d_click
   #     type: number
   #     sql: ${TABLE}.1d_click

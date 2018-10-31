@@ -1,4 +1,4 @@
-connection: "facebook_data"
+connection: "main_redshift_cluster"
 
 # include all the views
 include: "*.view"

@@ -1,5 +1,5 @@
 view: ad_insights_by_age_and_gender {
-  sql_table_name: facebook_data.facebook_ads_insights_age_and_gender_101441173373823 ;;
+  sql_table_name: facebook_ads_thinx_via_stitch.facebook_ads_insights_age_and_gender_425928680820998 ;;
   ## STANDARD FIELDS
 
   dimension: account_id {

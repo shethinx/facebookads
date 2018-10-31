@@ -1,5 +1,5 @@
 view: adsets {
-  sql_table_name: facebook_data.facebook_adsets_101441173373823 ;;
+  sql_table_name: facebook_ads_thinx_via_stitch.facebook_adsets_425928680820998 ;;
 
   dimension: id {
     primary_key: yes
