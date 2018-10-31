@@ -1,5 +1,5 @@
 view: ad_insights {
-  sql_table_name: facebook_ads_thinx_via_stitch.ads_insights_425928680820998 ;;
+  sql_table_name: facebook_ads_thinx_via_stitch.ads_insights ;;
   # API documentation: https://developers.facebook.com/docs/marketing-api/insights/fields/v2.6
 
   ## STANDARD FIELDS
