@@ -1,5 +1,5 @@
 view: adcreative {
-  sql_table_name: facebook_ads_thinx_via_stitch.facebook_adcreative_425928680820998 ;;
+  sql_table_name: facebook_ads_thinx_via_stitch.adcreative ;;
 
     dimension: actor_id {
       type: string

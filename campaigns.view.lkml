@@ -1,5 +1,5 @@
 view: campaigns {
-  sql_table_name: facebook_ads_thinx_via_stitch.facebook_campaigns_425928680820998 ;;
+  sql_table_name: facebook_ads_thinx_via_stitch.campaigns ;;
 
   dimension: id {
     primary_key: yes

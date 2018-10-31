@@ -1,5 +1,5 @@
 view: ads {
-  sql_table_name: facebook_ads_thinx_via_stitch.facebook_ads_425928680820998 ;;
+  sql_table_name: facebook_ads_thinx_via_stitch.ads ;;
   # API documentation here: https://developers.facebook.com/docs/marketing-api/reference/adgroup
 
   dimension: id {

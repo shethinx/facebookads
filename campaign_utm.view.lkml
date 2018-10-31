@@ -4,7 +4,7 @@ view: campaign_utm {
       SELECT
         id,
         split_part((regexp_substr(object_story_spec__link_data__link,'campaign=([^&]*)[^&]')),'=',2) as utm_campaign
-      FROM facebook_ads_thinx_via_stitch.facebook_adcreative_425928680820998
+      FROM facebook_ads_thinx_via_stitch.adcreative
       ;;
   }
   # later, dimension declarations reference the derived column(s)

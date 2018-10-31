@@ -1,5 +1,5 @@
 view: ad_action_insights {
-  sql_table_name: facebook_ads_thinx_via_stitch.facebook_ads_insights_425928680820998__actions ;;
+  sql_table_name: facebook_ads_thinx_via_stitch.ads_insights ;;
   #   - dimension: 1d_click
   #     type: number
   #     sql: ${TABLE}.1d_click

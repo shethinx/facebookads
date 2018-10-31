@@ -1,5 +1,5 @@
 view: ad_insights_by_country {
-  sql_table_name: facebook_ads_thinx_via_stitch.facebook_ads_insights_country_425928680820998 ;;
+  sql_table_name: facebook_ads_thinx_via_stitch.ads_insights_country ;;
   ## STANDARD FIELDS
 
   dimension: account_id {
