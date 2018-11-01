@@ -1,5 +1,5 @@
 view: ad_insights_by_placement_and_device {
-  sql_table_name: facebook_ads_thinx_via_stitch.ads_insights_platform_and_device ;;
+  sql_table_name: facebook_ads_thinx_via_stitch.ads_insights_platform_and_device;;
   ## STANDARD FIELDS
 
   dimension: account_id {
