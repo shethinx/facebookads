@@ -1,5 +1,5 @@
 view: ad_actions_by_placement_and_device {
-  sql_table_name: facebook_ads_thinx_via_stitch.facebook_ads_insights_placement_and_device_425928680820998__actions ;;
+  sql_table_name: facebook_ads_thinx_via_stitch.ads_insights_platform_and_device__actions ;;
   #   - dimension: 1d_click
   #     type: number
   #     sql: ${TABLE}.1d_click
